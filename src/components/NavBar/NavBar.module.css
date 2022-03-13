@@ -1,0 +1,19 @@
+
+
+.navbar {
+    top: 25px;
+    left: 65px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+    z-index: 99;
+  }
+  
+  .navbar_home {
+    width: 24px;
+    height: 20px;
+    padding: 4px 25px 4px 0;
+    margin-right: 25px;
+    border-right: solid 1px black;
+  }
